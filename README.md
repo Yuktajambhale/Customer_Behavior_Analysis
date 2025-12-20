@@ -4,6 +4,7 @@
 This project demonstrates a complete data analytics workflow, starting from data loading and exploration to database querying and business insight visualization.
 The goal is to extract meaningful insights from raw data using Python, SQL, and Power BI, and present the results in a clear and professional manner.
 
+
 📂 Dataset
 
 Source: (Public / Company / Kaggle / Internal – update as needed)
@@ -11,6 +12,8 @@ Source: (Public / Company / Kaggle / Internal – update as needed)
 Format: CSV
 
 Description: The dataset contains structured data used for analytical exploration, trend identification, and reporting.
+
+
 
 🛠 Tools & Technologies
 
@@ -32,6 +35,8 @@ Gamma – Presentation (PPT) creation
 
 Jupyter Notebook – Analysis environment
 
+
+
 🔄 Project Workflow
 
 Load the dataset using Python
@@ -50,6 +55,8 @@ Create an analytical report
 
 Present insights using a structured PPT (Gamma)
 
+
+
 🔍 Exploratory Data Analysis (EDA)
 
 Data shape and structure analysis
@@ -62,6 +69,8 @@ Summary statistics
 
 Data distribution and trend analysis
 
+
+
 🧹 Data Cleaning
 
 Removed null and duplicate records
@@ -71,6 +80,8 @@ Standardized column formats
 Corrected data types
 
 Filtered inconsistent and invalid values
+
+
 
 🗄 SQL Analysis
 
@@ -86,6 +97,8 @@ Perform joins and filtering
 
 Answer key business questions
 
+
+
 📈 Power BI Dashboard
 
 Interactive visuals for key metrics
@@ -96,6 +109,8 @@ Clear KPI representation
 
 Business-focused layout for decision-making
 
+
+
 📊 Results & Insights
 
 Identified important trends and patterns in the data
@@ -105,6 +120,8 @@ Discovered key performance indicators (KPIs)
 Converted raw data into actionable business insights
 
 Presented findings in a visual and easy-to-understand format
+
+
 
 ▶️ How to Run the Project
 
@@ -126,6 +143,8 @@ Execute SQL queries provided in the project
 
 Open the Power BI file to explore the dashboard
 
+
+
 📄 Deliverables
 
 Jupyter Notebook (EDA & Cleaning)
@@ -137,6 +156,8 @@ Power BI Dashboard
 Analytical Report
 
 Presentation (Gamma PPT)
+
+
 
 👤 Author
 
