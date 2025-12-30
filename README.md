@@ -1,149 +1,121 @@
 📊 Data Analytics Project – End-to-End Analysis & Dashboarding
 📌 Overview
+![image](https://github.com/user-attachments/assets/b224c9f9-d8fd-4afa-ba0c-e7718bcafffb)
+🌟 Customer Behavior Analysis Project
 
-This project demonstrates a complete data analytics workflow, starting from data loading and exploration to database querying and business insight visualization.
-The goal is to extract meaningful insights from raw data using Python, SQL, and Power BI, and present the results in a clear and professional manner.
-
+This project demonstrates a complete data analytics workflow, from data loading & exploration to SQL querying and Power BI visualization.
+Goal: Convert raw data into actionable insights using Python, SQL, and Power BI.
 
 📂 Dataset
 
-Source: (Public / Company / Kaggle / Internal – update as needed)
+Source: Public / Kaggle / Internal
 
 Format: CSV
 
-Description: The dataset contains structured data used for analytical exploration, trend identification, and reporting.
-
-
+Description: Structured data for analysis, trend identification, and reporting.
 
 🛠 Tools & Technologies
+Tool	Badge	Purpose
+Python	
+	Data cleaning, EDA
+Pandas	
+	Data manipulation
+NumPy	
+	Numerical operations
+Matplotlib	
+	Data visualization
+Seaborn	
+	Statistical plots
+SQL	
+	Data querying
+Power BI	
+	Dashboard creation
+Jupyter	
+	Analysis environment
+🔄 Workflow
 
-Python – Data loading, cleaning, and exploratory data analysis (EDA)
+Load dataset in Python
 
-Pandas
+Perform EDA
 
-NumPy
+Clean & preprocess data
 
-Matplotlib / Seaborn
+Store data in PostgreSQL/MySQL
 
-SQL – Data querying and analysis
+SQL queries to answer business questions
 
-PostgreSQL / MySQL
+Build Power BI interactive dashboard
 
-Power BI – Interactive dashboard creation
-
-Gamma – Presentation (PPT) creation
-
-Jupyter Notebook – Analysis environment
-
-
-
-🔄 Project Workflow
-
-Load the dataset using Python
-
-Perform Exploratory Data Analysis (EDA)
-
-Clean and preprocess the data
-
-Store data in PostgreSQL / MySQL
-
-Run SQL queries to answer business questions
-
-Build an interactive Power BI dashboard
-
-Create an analytical report
-
-Present insights using a structured PPT (Gamma)
-
-
+Create analytical report & presentation
 
 🔍 Exploratory Data Analysis (EDA)
 
-Data shape and structure analysis
+✅ Data shape & structure
 
-Handling missing and duplicate values
+✅ Handle missing/duplicate values
 
-Outlier detection
+✅ Outlier detection
 
-Summary statistics
+✅ Summary statistics
 
-Data distribution and trend analysis
-
-
+✅ Trend & distribution analysis
 
 🧹 Data Cleaning
 
-Removed null and duplicate records
+✅ Remove null & duplicate records
 
-Standardized column formats
+✅ Standardize column formats
 
-Corrected data types
+✅ Correct data types
 
-Filtered inconsistent and invalid values
-
-
+✅ Filter inconsistent values
 
 🗄 SQL Analysis
 
-Imported cleaned data into PostgreSQL / MySQL
+Imported cleaned data into SQL
 
-Used SQL queries to:
+Queries for:
 
-Aggregate metrics
+Aggregating metrics
 
-Identify trends and patterns
+Trend analysis
 
-Perform joins and filtering
+Joins & filters
 
-Answer key business questions
-
-
+Answering business questions
 
 📈 Power BI Dashboard
 
-Interactive visuals for key metrics
+Interactive KPIs & visuals
 
-Filters and slicers for dynamic analysis
+Filters & slicers for dynamic analysis
 
-Clear KPI representation
-
-Business-focused layout for decision-making
-
-
+Business-friendly layout
 
 📊 Results & Insights
 
-Identified important trends and patterns in the data
+Identified key trends & patterns
 
-Discovered key performance indicators (KPIs)
+Discovered KPIs
 
-Converted raw data into actionable business insights
+Converted raw data into actionable insights
 
-Presented findings in a visual and easy-to-understand format
+Presented findings visually
 
+▶️ How to Run
+# Clone repo
+git clone <repo-link>
 
-
-▶️ How to Run the Project
-
-Clone the repository
-
-git clone <repository-url>
-
-
-Install required Python libraries
-
+# Install dependencies
 pip install pandas numpy matplotlib seaborn
 
+# Run Jupyter Notebook
+jupyter notebook
 
-Run the Jupyter Notebook for analysis
+# Import cleaned dataset into SQL
+# Execute queries provided
 
-Import the cleaned dataset into PostgreSQL / MySQL
-
-Execute SQL queries provided in the project
-
-Open the Power BI file to explore the dashboard
-
-
+# Open Power BI file for dashboard
 
 📄 Deliverables
 
@@ -157,9 +129,10 @@ Analytical Report
 
 Presentation (Gamma PPT)
 
-
-
 👤 Author
 
 Yukta Jambhale
 Data Analyst | Python | SQL | Power BI | Big Data Analytics
+
+📫 Connect: LinkedIn
+ | Email
